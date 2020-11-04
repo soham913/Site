@@ -1,0 +1,80 @@
+.first{
+    margin-top: 10%;
+    padding-bottom: 15%;
+}
+
+header{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2F2016%2F08%2FFood-Wallpapers-HD-For-Desktop.jpg&f=1&nofb=1);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.light{
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+.brand{
+    color: darkviolet;
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+#order{
+    background-color: darkorange;
+    border-radius: 0%;
+}
+
+#order:hover{
+    background-color: orangered;
+    transform: scale(1.2);
+
+    
+}
+
+#story{
+    border-radius: 50%;
+    background-color: darkorange;
+}
+
+#story:hover{
+    background-color: orangered;
+    transform: scale(1.2);
+}
+
+.section-1{
+
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.DZlOaaacG6YHoVmvJRDeTgHaD8%26pid%3DApi&f=1);
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.section-2{
+    padding: 5%;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.DZlOaaacG6YHoVmvJRDeTgHaD8%26pid%3DApi&f=1);
+}
+
+.section-3
+{
+
+    flex-direction: row;
+}
+#special{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.eD7MpRmuCp5oKFlcdoKmuwHaE8%26pid%3DApi&f=1);
+    padding: 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1%;
+}
+
+.formal{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+.long{
+    height: 100%;
+}
+
+.section-4{
+    padding:5%
+}
